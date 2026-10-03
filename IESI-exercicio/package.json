@@ -1,0 +1,11 @@
+{
+  "name": "iesi-estoque-laboratorio",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "verificar": "node scripts/verificar.mjs"
+  }
+}
